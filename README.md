@@ -8,4 +8,4 @@ Hover over the red boxes to find scrambled words. Click the one that matches the
 - Manipulate elements to show red Select and show word when hover occurs.
 
 #Image
-![](Images/scrambler.PNG)
+![](images/scrambler.PNG)
